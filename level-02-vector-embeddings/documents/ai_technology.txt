@@ -1,0 +1,6 @@
+Artificial Intelligence, Machine Learning, and Algorithms
+Artificial intelligence (AI) is a field of computer science dedicated to creating systems capable of performing tasks that typically require human intelligence. These tasks include understanding natural language, recognizing images, making decisions, and more. AI incorporates a range of approaches, from rule-based logic to probabilistic reasoning.
+
+Machine learning (ML) is a subfield of AI focused on building systems that learn from data. Instead of being explicitly programmed, ML algorithms identify patterns within datasets and improve their performance over time as they process more information. Common ML techniques include supervised learning, where algorithms learn from labeled data; unsupervised learning, where patterns are uncovered in unlabeled data; and reinforcement learning, where agents learn by interacting with their environment.
+
+Algorithms are step-by-step procedures or formulas for solving problems. In the context of AI and ML, algorithms process input data and produce desired outputs—ranging from sorting numbers to classifying images. The design and optimization of algorithms are fundamental to advancements in AI and machine learning across industries.
